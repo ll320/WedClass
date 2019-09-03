@@ -1,4 +1,4 @@
-# WedClass
+# WedClass (heading)
 
 ## Subheading
 
